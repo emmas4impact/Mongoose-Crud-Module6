@@ -38,6 +38,7 @@
     "pdfmake": "^0.1.66",
     "pipe": "^1.1.0",
     "pump": "^3.0.0",
+    "query-to-mongo": "^0.10.1",
     "request": "^2.88.2",
     "swagger-ui-express": "^4.1.4",
     "through2": "^4.0.2",
